@@ -1,4 +1,4 @@
-# Our First Python based Solidity Contract
+# First Python based Solidity Contract
 
 ## Prerequisites
 
